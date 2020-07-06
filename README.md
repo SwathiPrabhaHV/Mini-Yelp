@@ -5,7 +5,7 @@
 •	Performed indexing on the database for faster data retrieval, which improved the performance by more than 50%.
 
 
-![readme](https://user-images.githubusercontent.com/22544164/86565937-9f8d0f00-bf1d-11ea-9d12-1211da45b1bb.png)
+![readme](https://user-images.githubusercontent.com/22544164/86566232-29d57300-bf1e-11ea-9a5e-45affc912808.png)
  
 
 
