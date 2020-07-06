@@ -3,6 +3,8 @@
 •	The filter can be used to select businesses based on their associated attributes such as categories, sub-categories and stars. 
 •	The users can be filtered based on their review count, the number of friends, average stars, and years of membership.
 •	Performed indexing on the database for faster data retrieval, which improved the performance by more than 50%.
+ 
+
 
 
 
